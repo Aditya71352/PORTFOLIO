@@ -1,24 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	        <meta charset="UTF-8">
-	        <title>Aditya project</title>
-	        <meta type="description" content="first repository">
-	    </head>
-	    <body>
-	
-	        <div style="text-align: center;">
-	            <h1>Aditya</h1>
-	            <br>
-	            <br>
-	            <a href="mailto: adityamittal8448655450@gmail.com">adityamittal8448655450@gmail.com </a>
-	            <br>
-	            <h2>Skills</h2>
-	            HTML,CSS
-		    Javascript
-	            <br>
-	            <h2>Projects</h2>
-	            <br>
-	            <h2>About Me</h2>
-	        </div>
-	    </body>
-	</html>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aditya Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://use.fontawesome.com/releases/v5.0.7/css/all.css" rel="stylesheet">
+</head>
+<body>
+    <div class="prof-box">
+    
+        <img src="images/aditya2.jpeg" class="Myimage">
+        <h1>Aditya</h1>
+        <h2>Contact Number: 931XXXXXXX</h2>
+        <h2>Email: adityamittal713@gmail.com</h2>
+        <div class="line-break"></div>
+        <p>Cyber Security Student</p>
+        <p>Security Researcher</p>
+        <div class="line-break"></div>
+        <p><h3>Educational Background</h3></p>
+        <p>Student at Manav Rachna International Institute of Research and Studies(Batch 2018-2022)</p>
+        <p>Completed Secondary Education from Dav Public School in 2016</p>
+        <p>Completed Senior Secondary Education from DAV Public School in 2018</p>
+	<p><h3>Skills</h3></p>
+	<p>C++<br> c<br> SQL <br> </p>
+        <div class="social-icons">
+        <li><a href="https://www.linkedin.com/in/aditya-mittal-8314781b5/" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a>
+	<li><a href="https://github.com/Aditya71352" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+        </div>
+    </div>
+</body>
+</html> 
